@@ -3,19 +3,19 @@ async-timeout==3.0.1
 attrs==21.4.0
 backports.entry-points-selectable==1.1.1
 beautifulsoup4==4.10.0
-bs4 @ file:///home/runner/.cache/pypoetry/artifacts/e9/5a/3a/3c483ceafc556e7bba107517ff7a0edff0f38199916e2abc26fc2b5bf5/bs4-0.0.1.tar.gz
+#bs4 @ file:///home/runner/.cache/pypoetry/artifacts/e9/5a/3a/3c483ceafc556e7bba107517ff7a0edff0f38199916e2abc26fc2b5bf5/bs4-0.0.1.tar.gz
 CacheControl==0.12.10
 cachy==0.3.0
 certifi==2021.10.8
 cffi==1.15.0
 chardet==4.0.0
-charset-normalizer @ file:///home/runner/.cache/pypoetry/artifacts/ec/5b/a2/c10e4856edc87c679dee9eda80eaf78838440ead15e9f074a8cb791024/charset_normalizer-2.0.12-py3-none-any.whl
+#charset-normalizer @ file:///home/runner/.cache/pypoetry/artifacts/ec/5b/a2/c10e4856edc87c679dee9eda80eaf78838440ead15e9f074a8cb791024/charset_normalizer-2.0.12-py3-none-any.whl
 cleo==0.8.1
 clikit==0.6.2
 crashtest==0.3.1
 cryptography==35.0.0
 debugpy==1.2.1
-discord @ file:///home/runner/.cache/pypoetry/artifacts/0f/cc/0e/0dd848b2518df98bf9b6e4de7030042dd09e0aa66d5bdb982bf67023fe/discord-1.7.3-py3-none-any.whl
+#discord @ file:///home/runner/.cache/pypoetry/artifacts/0f/cc/0e/0dd848b2518df98bf9b6e4de7030042dd09e0aa66d5bdb982bf67023fe/discord-1.7.3-py3-none-any.whl
 discord.py==1.7.3
 distlib==0.3.3
 docopt==0.6.2
@@ -30,7 +30,7 @@ keyring==21.8.0
 lockfile==0.12.2
 msgpack==1.0.2
 multidict==6.0.2
-numpy @ file:///home/runner/.cache/pypoetry/artifacts/0a/f1/63/4e86e206dd78b5ffa1d0b33299c8275c3e1a2411fac9d63320ce69de5f/numpy-1.22.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+#numpy @ file:///home/runner/.cache/pypoetry/artifacts/0a/f1/63/4e86e206dd78b5ffa1d0b33299c8275c3e1a2411fac9d63320ce69de5f/numpy-1.22.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 packaging==20.9
 parso==0.5.2
 pastel==0.2.1
@@ -50,7 +50,7 @@ PyNaCl==1.4.0
 pyparsing==3.0.5
 python-jsonrpc-server==0.3.2
 python-language-server==0.31.10
-requests @ file:///home/runner/.cache/pypoetry/artifacts/15/3c/d9/96434347a23410cdcf0d36c6f02f274d98d8cb07a1a0ebc81dc5ecc54b/requests-2.27.1-py2.py3-none-any.whl
+#requests @ file:///home/runner/.cache/pypoetry/artifacts/15/3c/d9/96434347a23410cdcf0d36c6f02f274d98d8cb07a1a0ebc81dc5ecc54b/requests-2.27.1-py2.py3-none-any.whl
 requests-toolbelt==0.9.1
 rope==0.18.0
 SecretStorage==3.3.1
@@ -59,9 +59,9 @@ six==1.16.0
 soupsieve==2.3.1
 toml==0.10.2
 tomlkit==0.7.2
-typing-extensions @ file:///home/runner/.cache/pypoetry/artifacts/87/60/52/bb31315c14638b8b2083274c3a09adb2687eda7371ade44f0f7c5aa84a/typing_extensions-4.1.1-py3-none-any.whl
+#typing-extensions @ file:///home/runner/.cache/pypoetry/artifacts/87/60/52/bb31315c14638b8b2083274c3a09adb2687eda7371ade44f0f7c5aa84a/typing_extensions-4.1.1-py3-none-any.whl
 ujson==1.35
-urllib3 @ file:///home/runner/.cache/pypoetry/artifacts/9e/8f/8e/5a2a6058ef54ae8a580681ebf10ecefe74fb5b829c652f8ca3c55420a2/urllib3-1.26.8-py2.py3-none-any.whl
+#urllib3 @ file:///home/runner/.cache/pypoetry/artifacts/9e/8f/8e/5a2a6058ef54ae8a580681ebf10ecefe74fb5b829c652f8ca3c55420a2/urllib3-1.26.8-py2.py3-none-any.whl
 virtualenv==20.10.0
 webencodings==0.5.1
 yapf==0.31.0
