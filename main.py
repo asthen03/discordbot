@@ -85,7 +85,8 @@ async def on_message(message):
       await message.channel.send(random_article['url'])
 
     if message.content.startswith('$news'):
-      topic=message.content[1:]
+      topic=message.content.split(" ")[1:]
+      topic=' '.join(topic)
       url = requests.get('https://newsapi.org/v2/everything?q='+ topic+'&apiKey=3953e6fe0f3042fe8b94ab707457d9ae')
       all_articles = url.json()['articles']
       if all_articles != None:
